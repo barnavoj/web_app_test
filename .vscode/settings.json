@@ -1,3 +1,10 @@
 {
-    "austin.mode": "CPU time"
+    "austin.mode": "CPU time",
+    "python.languageServer": "Default",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.addImport.exactMatchOnly": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true
+
+
 }
