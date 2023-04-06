@@ -1,11 +1,12 @@
 {
-  "name": "vite",
-  "version": "4.1.0",
-  "description": "my first front end ",
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vojta",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
