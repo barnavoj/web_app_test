@@ -5,7 +5,12 @@
     "python.analysis.addImport.exactMatchOnly": true,
     "python.analysis.autoImportCompletions": true,
     "python.analysis.completeFunctionParens": true,
-    "editor.formatOnSave": true
+    // Set the default
+    "editor.formatOnSave": false,
+    // Enable per-language
+    "[javascript]": {
+        "editor.formatOnSave": true
+    }
 
 
 }
