@@ -1,6 +1,5 @@
 # Dummy web application
-## using Django for API backend
-## and React for frontend
+## using Django for API backend and React for frontend
 
 following https://github.com/techwithtim/Music-Controller-Web-App-Tutorial 
 
