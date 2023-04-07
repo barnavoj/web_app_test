@@ -10,6 +10,6 @@ Front end dependencies - Material UI
 
 ### commands to run Django API -> 
 
-python manage.py runserver
-python manage.py makemigrations
-python manage.py migrate
+- python manage.py runserver
+- python manage.py makemigrations
+- python manage.py migrate
