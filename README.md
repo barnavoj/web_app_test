@@ -14,6 +14,7 @@ Front end dependencies - Material UI
 - python manage.py makemigrations
 - python manage.py migrate
 
+
 ### commands to run React frontend javascript serializer -> 
 - webpack watch --mode development
 - npm run dev
