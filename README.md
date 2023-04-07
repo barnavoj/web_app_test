@@ -16,5 +16,4 @@ Front end dependencies - Material UI
 
 
 ### commands to run React frontend javascript serializer -> 
-- webpack watch --mode development
-- npm run dev
+- webpack watch --mode development /or/ npm run dev
